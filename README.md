@@ -1,5 +1,5 @@
 # ECG-data-augmentation
-This repository consisted of the files related to a research paper on ECG data augmentation method.
+This repository consisted of the files related to a research paper: A novel data augmentation approach for enhancement of ECG signal classification.
 
 Pre-Processing:
 
